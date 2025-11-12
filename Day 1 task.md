@@ -65,7 +65,7 @@ List all tools or platforms you plan to use (for example: VS Code, XAMPP, MongoD
 ## Submission Details
 - File name: `<YourName>_<ProjectTitle>_Plan`  
 - Format: `.docx`, `.txt`, or `.md`  
-- Submit it before the end of the day (by 11:59 PM).  
+- Submit it before 13th Nov, 2025 06:30 PM).  
 - You can handwrite it if you don’t know how to make a file, but it must be neat and clear.
 
 ---
